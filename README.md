@@ -4,7 +4,8 @@
 
 "SampleIndex" contains the corresponding index to SampleX when functioning properly. 
 
-"snps_2029.rda" contains information about positon, genes, non-syn/syn mutation. 
+"SNPs1 - SNPs4" contains information about positon, genes, non-syn/syn mutation. 
+for uploading, SNPs data has been splitted into four parts, which needs to be merged to SNPs again. 
 
 "European_lat_long_eci.rda" contains location data of most sequences ecotypes in latitude/longitude for 2-dimensional analysis, but also ECI (earth centered inertial) for 3-dimensional analysis. 
 
